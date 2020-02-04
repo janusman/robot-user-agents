@@ -1,0 +1,42 @@
+Ahrefs
+Amazonbot
+ArchiveBot
+Baiduspider
+bingbot
+BLEXBot
+CCBot
+Curebot
+Daum
+Detectify
+DotBot
+Grapeshot
+Googlebot
+heritrix
+Kinza
+LieBaoFast
+Linguee
+Mb2345Browser
+MegaIndex
+Microsoft Office
+Microsoft Outlook
+MicroMessenger
+MJ12bot
+PageFreezer
+PiplBot
+Riddler
+Screaming Frog
+Search365bot
+Seekport
+SemanticScholarBot
+SemrushBot
+SEOkicks
+serpstatbot
+Siteimprove.com
+Sogou web spider
+trendictionbot
+UCBrowser
+weborama-fetcher
+Vagabondo
+VelenPublicWebCrawler
+YandexBot
+YisouSpider

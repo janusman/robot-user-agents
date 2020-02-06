@@ -21,6 +21,7 @@ MJ12bot
 PageFreezer
 PiplBot
 Riddler
+Screaming Frog
 Search365bot
 Seekport
 SemanticScholarBot

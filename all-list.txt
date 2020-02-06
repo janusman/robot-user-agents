@@ -1,9 +1,11 @@
 Ahrefs
 Amazonbot
+Applebot
 ArchiveBot
 Baiduspider
 bingbot
 BLEXBot
+Bytespider
 CCBot
 Curebot
 Daum

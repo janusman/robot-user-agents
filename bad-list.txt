@@ -3,6 +3,7 @@ ArchiveBot
 Baiduspider
 bingbot
 BLEXBot
+Bytespider
 CCBot
 Curebot
 Daum

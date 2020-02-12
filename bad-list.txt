@@ -14,10 +14,12 @@ heritrix
 Kinza
 LieBaoFast
 Linguee
+LMY47V
 Mb2345Browser
 MegaIndex
 MicroMessenger
 MJ12bot
+MQQBrowser
 PageFreezer
 PiplBot
 Riddler

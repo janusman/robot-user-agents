@@ -17,12 +17,14 @@ heritrix
 Kinza
 LieBaoFast
 Linguee
+LMY47V
 Mb2345Browser
 MegaIndex
 Microsoft Office
 Microsoft Outlook
 MicroMessenger
 MJ12bot
+MQQBrowser
 PageFreezer
 PiplBot
 Riddler

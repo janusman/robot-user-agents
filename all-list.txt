@@ -1,3 +1,5 @@
+11A465
+AddThis.com
 Ahrefs
 Amazonbot
 Applebot
@@ -11,23 +13,32 @@ Curebot
 Daum
 Detectify
 DotBot
+facebook
 Grapeshot
 Googlebot
+GuzzleHttp
+HeadlessChrome
 heritrix
 Kinza
 LieBaoFast
 Linguee
 LMY47V
+MacOutlook
 Mb2345Browser
 MegaIndex
 Microsoft Office
 Microsoft Outlook
+Microsoft Word
 MicroMessenger
 MJ12bot
 MQQBrowser
+msnbot
+nagios-plugins
 PageFreezer
+Pinterestbot
 PiplBot
 Riddler
+rogerbot
 Screaming Frog
 Search365bot
 Seekport
@@ -37,6 +48,7 @@ SEOkicks
 serpstatbot
 Siteimprove.com
 Sogou web spider
+TurnitinBot
 trendictionbot
 UCBrowser
 weborama-fetcher

@@ -16,6 +16,7 @@ Kinza
 LieBaoFast
 Linguee
 LMY47V
+MauiBot
 Mb2345Browser
 MegaIndex
 MicroMessenger

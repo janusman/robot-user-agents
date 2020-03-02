@@ -13,7 +13,7 @@ Curebot
 Daum
 Detectify
 DotBot
-facebook
+facebookexternalhit
 Grapeshot
 Googlebot
 GuzzleHttp
@@ -24,6 +24,7 @@ LieBaoFast
 Linguee
 LMY47V
 MacOutlook
+MauiBot
 Mb2345Browser
 MegaIndex
 Microsoft Office
@@ -37,6 +38,7 @@ nagios-plugins
 PageFreezer
 Pinterestbot
 PiplBot
+Qwantify
 Riddler
 rogerbot
 Screaming Frog

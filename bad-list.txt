@@ -1,6 +1,7 @@
 11A465
 Ahrefs
 ArchiveBot
+AspiegelBot
 Baiduspider
 bingbot
 BLEXBot

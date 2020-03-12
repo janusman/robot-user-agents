@@ -4,6 +4,7 @@ Ahrefs
 Amazonbot
 Applebot
 ArchiveBot
+AspiegelBot
 Baiduspider
 bingbot
 BLEXBot

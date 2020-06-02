@@ -10,6 +10,7 @@ bingbot
 BLEXBot
 Bytespider
 CCBot
+cludo.com bot
 Curebot
 Daum
 Detectify
@@ -20,6 +21,7 @@ Googlebot
 GuzzleHttp
 HeadlessChrome
 heritrix
+Imperva
 Kinza
 LieBaoFast
 Linguee
@@ -32,11 +34,15 @@ Microsoft Office
 Microsoft Outlook
 Microsoft Word
 MicroMessenger
+mindbreeze-crawler
 MJ12bot
+Monsidobot
 MQQBrowser
 msnbot
 nagios-plugins
 PageFreezer
+panscient.com
+PetalBot
 Pinterestbot
 PiplBot
 Qwantify
@@ -44,6 +50,7 @@ Riddler
 rogerbot
 Screaming Frog
 Search365bot
+SearchBlox
 Seekport
 SemanticScholarBot
 SemrushBot
@@ -54,8 +61,10 @@ Sogou web spider
 TurnitinBot
 trendictionbot
 UCBrowser
+UptimeRobot
 weborama-fetcher
 Vagabondo
 VelenPublicWebCrawler
 YandexBot
 YisouSpider
+ZoominfoBot

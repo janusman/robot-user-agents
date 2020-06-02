@@ -22,12 +22,15 @@ Mb2345Browser
 MegaIndex
 MicroMessenger
 MJ12bot
+Monsidobot
 MQQBrowser
 PageFreezer
+PetalBot
 PiplBot
 Riddler
 Screaming Frog
 Search365bot
+SearchBlox
 Seekport
 SemanticScholarBot
 SemrushBot
@@ -43,3 +46,4 @@ Vagabondo
 VelenPublicWebCrawler
 YandexBot
 YisouSpider
+ZoominfoBot

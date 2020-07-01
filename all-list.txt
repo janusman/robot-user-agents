@@ -48,6 +48,7 @@ PiplBot
 Qwantify
 Riddler
 rogerbot
+RustBot
 Screaming Frog
 Search365bot
 SearchBlox

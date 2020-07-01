@@ -28,6 +28,7 @@ PageFreezer
 PetalBot
 PiplBot
 Riddler
+RustBot
 Screaming Frog
 Search365bot
 SearchBlox

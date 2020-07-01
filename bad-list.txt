@@ -7,6 +7,7 @@ bingbot
 BLEXBot
 Bytespider
 CCBot
+Csnibot
 Curebot
 Daum
 Detectify

@@ -11,6 +11,7 @@ BLEXBot
 Bytespider
 CCBot
 cludo.com bot
+Csnibot
 Curebot
 Daum
 Detectify

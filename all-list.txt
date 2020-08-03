@@ -60,6 +60,7 @@ SemrushBot
 SEOkicks
 serpstatbot
 Siteimprove.com
+SiteSucker
 Sogou web spider
 TurnitinBot
 trendictionbot

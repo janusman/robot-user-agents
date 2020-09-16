@@ -9,6 +9,7 @@ AspiegelBot
 Baiduspider
 bingbot
 BLEXBot
+Buck
 Bytespider
 CCBot
 cludo.com bot

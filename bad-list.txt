@@ -12,6 +12,7 @@ Curebot
 Daum
 Detectify
 DotBot
+gobuster
 Grapeshot
 heritrix
 HTTrack

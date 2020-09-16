@@ -2,6 +2,7 @@
 AddThis.com
 Ahrefs
 Amazonbot
+Amazon-Route53-Health-Check-Service
 Applebot
 ArchiveBot
 AspiegelBot
@@ -18,7 +19,9 @@ Detectify
 DotBot
 facebookexternalhit
 Grapeshot
+gobuster
 Googlebot
+Go-http-client
 GuzzleHttp
 HeadlessChrome
 heritrix
@@ -61,11 +64,13 @@ SEOkicks
 serpstatbot
 Siteimprove.com
 SiteSucker
+SkypeRoom
 Sogou web spider
 TurnitinBot
 trendictionbot
 UCBrowser
 UptimeRobot
+Uptime/v2
 weborama-fetcher
 Vagabondo
 VelenPublicWebCrawler

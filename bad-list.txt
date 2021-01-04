@@ -16,6 +16,7 @@ gobuster
 Grapeshot
 heritrix
 HTTrack
+KauaiBot
 Kinza
 LieBaoFast
 Linguee

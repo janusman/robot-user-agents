@@ -28,6 +28,7 @@ HeadlessChrome
 heritrix
 HTTrack
 Imperva
+KauaiBot
 Kinza
 LieBaoFast
 Linguee
@@ -67,6 +68,7 @@ Siteimprove.com
 SiteSucker
 SkypeRoom
 Sogou web spider
+SpiderLing
 TurnitinBot
 trendictionbot
 UCBrowser

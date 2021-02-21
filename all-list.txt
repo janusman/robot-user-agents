@@ -1,5 +1,6 @@
 11A465
 AddThis.com
+AdsBot-Google
 Ahrefs
 Amazonbot
 Amazon-Route53-Health-Check-Service
@@ -21,6 +22,7 @@ Detectify
 DotBot
 facebookexternalhit
 Faraday
+FeedFetcher-Google
 Grapeshot
 gobuster
 Googlebot

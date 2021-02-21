@@ -15,10 +15,12 @@ CCBot
 cludo.com bot
 Csnibot
 Curebot
+curl
 Daum
 Detectify
 DotBot
 facebookexternalhit
+Faraday
 Grapeshot
 gobuster
 Googlebot
@@ -46,12 +48,16 @@ MJ12bot
 Monsidobot
 MQQBrowser
 msnbot
+MSOffice
+MTRobot
 nagios-plugins
+Nuclei
 PageFreezer
 panscient.com
 PetalBot
 Pinterestbot
 PiplBot
+python-requests
 Qwantify
 Riddler
 rogerbot
@@ -64,6 +70,7 @@ SemanticScholarBot
 SemrushBot
 SEOkicks
 serpstatbot
+SessionCam
 Siteimprove.com
 SiteSucker
 SkypeRoom

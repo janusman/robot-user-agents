@@ -20,6 +20,7 @@ KauaiBot
 Kinza
 LieBaoFast
 Linguee
+LinuxGetUrl
 LMY47V
 MauiBot
 Mb2345Browser

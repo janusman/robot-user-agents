@@ -10,6 +10,7 @@ AspiegelBot
 Baiduspider
 bingbot
 BLEXBot
+BluechipBacklinks
 Buck
 Bytespider
 CCBot
@@ -36,6 +37,7 @@ KauaiBot
 Kinza
 LieBaoFast
 Linguee
+LinuxGetUrl
 LMY47V
 MacOutlook
 MauiBot

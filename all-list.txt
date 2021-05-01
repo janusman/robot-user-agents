@@ -14,6 +14,7 @@ BluechipBacklinks
 Buck
 Bytespider
 CCBot
+check_http
 cludo.com bot
 Csnibot
 Curebot
@@ -32,6 +33,7 @@ GuzzleHttp
 HeadlessChrome
 heritrix
 HTTrack
+HubSpot Crawler
 Imperva
 KauaiBot
 Kinza
@@ -40,6 +42,7 @@ Linguee
 LinuxGetUrl
 LMY47V
 MacOutlook
+Magus Bot
 MauiBot
 Mb2345Browser
 MegaIndex
@@ -79,7 +82,9 @@ Siteimprove.com
 SiteSucker
 SkypeRoom
 Sogou web spider
+special_archiver
 SpiderLing
+StatusCake
 TurnitinBot
 trendictionbot
 UCBrowser
@@ -90,5 +95,6 @@ weborama-fetcher
 Vagabondo
 VelenPublicWebCrawler
 YandexBot
+YandexImages
 YisouSpider
 ZoominfoBot

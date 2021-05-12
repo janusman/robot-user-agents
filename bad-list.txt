@@ -29,6 +29,7 @@ MicroMessenger
 MJ12bot
 Monsidobot
 MQQBrowser
+Orbbot
 PageFreezer
 PetalBot
 PiplBot

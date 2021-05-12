@@ -59,6 +59,7 @@ MSOffice
 MTRobot
 nagios-plugins
 Nuclei
+Orbbot
 PageFreezer
 panscient.com
 PetalBot

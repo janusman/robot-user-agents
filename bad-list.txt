@@ -30,6 +30,7 @@ MJ12bot
 Monsidobot
 MQQBrowser
 Neevabot
+nettle
 Orbbot
 PageFreezer
 PetalBot

@@ -58,6 +58,7 @@ msnbot
 MSOffice
 MTRobot
 nagios-plugins
+nettle
 Neevabot
 Nuclei
 Orbbot

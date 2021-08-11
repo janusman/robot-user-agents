@@ -49,6 +49,7 @@ Siteimprove.com
 SiteSucker
 Sogou web spider
 trendictionbot
+trendkite-akashic-crawler
 TurnitinBot
 UCBrowser
 weborama-fetcher

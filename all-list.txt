@@ -90,6 +90,7 @@ SpiderLing
 StatusCake
 TurnitinBot
 trendictionbot
+trendkite-akashic-crawler
 UCBrowser
 UptimeRobot
 Uptime/v2

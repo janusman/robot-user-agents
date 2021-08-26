@@ -16,17 +16,21 @@ Bytespider
 CCBot
 check_http
 cludo.com bot
+CopperEgg
 Csnibot
 Curebot
 curl
 Daum
+Datadog Agent
 Detectify
 DotBot
 facebookexternalhit
 Faraday
 FeedFetcher-Google
+feedonomics
 Grapeshot
 gobuster
+gocolly
 Googlebot
 Go-http-client
 GuzzleHttp
@@ -60,7 +64,9 @@ MTRobot
 nagios-plugins
 nettle
 Neevabot
+newspaper
 Nuclei
+OnCrawl
 Orbbot
 PageFreezer
 panscient.com
@@ -69,18 +75,21 @@ Pinterestbot
 PiplBot
 python-requests
 Qwantify
+Re-re Studio
 Riddler
 rogerbot
 RustBot
 Screaming Frog
 Search365bot
 SearchBlox
+searchunify
 Seekport
 SemanticScholarBot
 SemrushBot
 SEOkicks
 serpstatbot
 SessionCam
+Site24x7
 Siteimprove.com
 SiteSucker
 SkypeRoom
@@ -88,7 +97,7 @@ Sogou web spider
 special_archiver
 SpiderLing
 StatusCake
-TurnitinBot
+Turnitin
 trendictionbot
 trendkite-akashic-crawler
 UCBrowser
@@ -96,9 +105,12 @@ UptimeRobot
 Uptime/v2
 UT-Dorkbot
 weborama-fetcher
+Wget
+www.loc.gov
 Vagabondo
 VelenPublicWebCrawler
 YandexBot
 YandexImages
 YisouSpider
+Zabbix
 ZoominfoBot

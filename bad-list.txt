@@ -50,7 +50,7 @@ SiteSucker
 Sogou web spider
 trendictionbot
 trendkite-akashic-crawler
-TurnitinBot
+Turnitin
 UCBrowser
 weborama-fetcher
 Vagabondo

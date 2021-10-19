@@ -47,6 +47,7 @@ LinuxGetUrl
 LMY47V
 MacOutlook
 Magus Bot
+Mail.RU_Bot
 MauiBot
 Mb2345Browser
 MegaIndex
@@ -91,7 +92,7 @@ SEOkicks
 serpstatbot
 SessionCam
 Site24x7
-Siteimprove.com
+siteimprove
 SiteSucker
 SkypeRoom
 Sogou web spider

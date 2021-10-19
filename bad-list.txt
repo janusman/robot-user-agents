@@ -22,6 +22,7 @@ LieBaoFast
 Linguee
 LinuxGetUrl
 LMY47V
+Mail.RU_Bot
 MauiBot
 Mb2345Browser
 MegaIndex

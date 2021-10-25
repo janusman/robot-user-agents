@@ -17,11 +17,13 @@ CCBot
 check_http
 cludo.com bot
 CopperEgg
+crawler4j
 Csnibot
 Curebot
 curl
 Daum
 Datadog Agent
+DataForSeoBot
 Detectify
 DotBot
 facebookexternalhit
@@ -39,6 +41,7 @@ heritrix
 HTTrack
 HubSpot Crawler
 Imperva
+IonCrawl
 KauaiBot
 Kinza
 LieBaoFast
@@ -81,6 +84,7 @@ Re-re Studio
 Riddler
 rogerbot
 RustBot
+Scrapy
 Screaming Frog
 Search365bot
 SearchBlox
@@ -89,6 +93,7 @@ Seekport
 SemanticScholarBot
 SemrushBot
 SEOkicks
+seoscanners
 serpstatbot
 SessionCam
 Site24x7

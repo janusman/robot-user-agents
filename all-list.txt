@@ -116,6 +116,7 @@ Wget
 www.loc.gov
 Vagabondo
 VelenPublicWebCrawler
+Veracode Security Scan
 YandexBot
 YandexImages
 YisouSpider

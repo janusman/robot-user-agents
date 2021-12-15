@@ -62,6 +62,7 @@ MicroMessenger
 mindbreeze-crawler
 mirrorweb.com
 MJ12bot
+monitoring-plugins
 Monsidobot
 MQQBrowser
 msnbot

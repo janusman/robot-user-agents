@@ -39,6 +39,7 @@ PetalBot
 PiplBot
 Riddler
 RustBot
+Scrapy
 Screaming Frog
 Search365bot
 SearchBlox

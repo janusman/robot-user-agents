@@ -5,6 +5,7 @@ Ahrefs
 alexa site audit
 Amazonbot
 Amazon-Route53-Health-Check-Service
+AppDynamics
 Applebot
 ArchiveBot
 AspiegelBot
@@ -17,6 +18,7 @@ Bytespider
 CCBot
 check_http
 cludo.com bot
+Cookiebot
 CopperEgg
 crawler4j
 Csnibot
@@ -31,6 +33,7 @@ facebookexternalhit
 Faraday
 FeedFetcher-Google
 feedonomics
+GAChecker
 Grapeshot
 gobuster
 gocolly
@@ -41,11 +44,13 @@ HeadlessChrome
 heritrix
 HTTrack
 HubSpot Crawler
+ICC-Crawler
 Imperva
 IonCrawl
 KauaiBot
 Kinza
 LieBaoFast
+Linespider
 Linguee
 LinuxGetUrl
 LMY47V

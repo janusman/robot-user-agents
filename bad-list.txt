@@ -17,9 +17,11 @@ gobuster
 Grapeshot
 heritrix
 HTTrack
+ICC-Crawler
 KauaiBot
 Kinza
 LieBaoFast
+Linespider
 Linguee
 LinuxGetUrl
 LMY47V

@@ -42,6 +42,7 @@ Go-http-client
 GuzzleHttp
 HeadlessChrome
 heritrix
+hokifyBot
 HTTrack
 HubSpot Crawler
 ICC-Crawler
@@ -52,6 +53,7 @@ Kinza
 LieBaoFast
 Linespider
 Linguee
+LinkedInBot
 LinuxGetUrl
 LMY47V
 MacOutlook
@@ -83,6 +85,7 @@ Orbbot
 PageFreezer
 panscient.com
 PetalBot
+Pingdom.com
 Pinterestbot
 PiplBot
 python-requests
@@ -115,14 +118,15 @@ Turnitin
 trendictionbot
 trendkite-akashic-crawler
 UCBrowser
+Uptime
 UptimeRobot
-Uptime/v2
 UT-Dorkbot
 weborama-fetcher
 Wget
 www.loc.gov
 Vagabondo
 VelenPublicWebCrawler
+Yeti
 Veracode Security Scan
 YandexBot
 YandexImages

@@ -98,6 +98,7 @@ Scrapy
 Screaming Frog
 Search365bot
 SearchBlox
+SearchmetricsBot
 searchunify
 Seekport
 SemanticScholarBot

@@ -109,6 +109,7 @@ serpstatbot
 SessionCam
 Site24x7
 siteimprove
+Siteimprove
 SiteSucker
 SkypeRoom
 Sogou web spider
@@ -123,6 +124,7 @@ Uptime
 UptimeRobot
 UT-Dorkbot
 weborama-fetcher
+WhiteHat Security
 Wget
 www.loc.gov
 Vagabondo

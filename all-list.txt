@@ -5,6 +5,7 @@ Ahrefs
 alexa site audit
 Amazonbot
 Amazon-Route53-Health-Check-Service
+ApacheBench
 AppDynamics
 Applebot
 ArchiveBot

@@ -31,6 +31,7 @@ Datadog Agent
 DataForSeoBot
 Detectify
 DotBot
+DuckDuckBot
 facebookexternalhit
 Faraday
 FeedFetcher-Google
@@ -111,6 +112,7 @@ SEOkicks
 seoscanners
 serpstatbot
 SessionCam
+SeznamBot
 Site24x7
 siteimprove
 Siteimprove

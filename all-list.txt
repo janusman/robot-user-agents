@@ -36,6 +36,7 @@ facebookexternalhit
 Faraday
 FeedFetcher-Google
 feedonomics
+Funnelback
 GAChecker
 Grapeshot
 gobuster

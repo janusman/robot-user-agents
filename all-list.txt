@@ -10,9 +10,11 @@ AppDynamics
 Applebot
 ArchiveBot
 AspiegelBot
+axios
 Baiduspider
 bingbot
 BLEXBot
+BLP_bbot
 BluechipBacklinks
 Buck
 Bytespider
@@ -36,6 +38,7 @@ facebookexternalhit
 Faraday
 FeedFetcher-Google
 feedonomics
+Fess
 Funnelback
 GAChecker
 Grapeshot
@@ -53,6 +56,7 @@ HubSpot Crawler
 ICC-Crawler
 Imperva
 IonCrawl
+jooble
 KauaiBot
 Kinza
 LieBaoFast
@@ -60,6 +64,7 @@ Linespider
 Linguee
 LinkChecker
 LinkedInBot
+LinkUpBot
 LinuxGetUrl
 LMY47V
 MacOutlook
@@ -134,7 +139,9 @@ UT-Dorkbot
 weborama-fetcher
 WhiteHat Security
 Wget
+WTWBot
 www.loc.gov
+Xenu Link Sleuth
 Vagabondo
 VelenPublicWebCrawler
 Yeti

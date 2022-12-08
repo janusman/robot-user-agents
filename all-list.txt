@@ -12,6 +12,7 @@ ArchiveBot
 AspiegelBot
 axios
 Baiduspider
+Barkrowler
 bingbot
 BLEXBot
 BLP_bbot
@@ -51,6 +52,7 @@ GuzzleHttp
 HeadlessChrome
 heritrix
 hokifyBot
+Honolulu-bot
 HTTrack
 HubSpot Crawler
 ICC-Crawler
@@ -60,6 +62,7 @@ jooble
 KauaiBot
 Kinza
 LieBaoFast
+linabot
 Linespider
 Linguee
 LinkChecker
@@ -151,3 +154,4 @@ YandexImages
 YisouSpider
 Zabbix
 ZoominfoBot
+ZoomSpider

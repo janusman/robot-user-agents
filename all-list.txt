@@ -9,7 +9,9 @@ ApacheBench
 AppDynamics
 Applebot
 ArchiveBot
+Archive-It
 AspiegelBot
+Assetnote
 axios
 Baiduspider
 Barkrowler

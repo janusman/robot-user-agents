@@ -112,6 +112,7 @@ rogerbot
 RustBot
 Scrapy
 Screaming Frog
+SeobilityBot
 Search365bot
 SearchBlox
 SearchmetricsBot
@@ -129,6 +130,7 @@ siteimprove
 Siteimprove
 SiteSucker
 SkypeRoom
+Slackbot
 Sogou web spider
 special_archiver
 SpiderLing

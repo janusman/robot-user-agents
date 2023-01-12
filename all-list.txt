@@ -23,6 +23,7 @@ Buck
 Bytespider
 CCBot
 check_http
+CloudFlare-Prefetch
 cludo.com bot
 contentkingapp
 Cookiebot

@@ -32,6 +32,7 @@ crawler4j
 Csnibot
 Curebot
 curl
+CyotekWebCopy
 Daum
 Datadog Agent
 DataForSeoBot

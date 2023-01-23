@@ -47,6 +47,7 @@ Fess
 Funnelback
 Fuzz Faster U Fool
 GAChecker
+Ghost Inspector
 Grapeshot
 gobuster
 gocolly

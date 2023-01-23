@@ -13,6 +13,7 @@ Curebot
 Daum
 Detectify
 DotBot
+Fuzz Faster U Fool
 gobuster
 Grapeshot
 heritrix

@@ -98,6 +98,7 @@ MTRobot
 nagios-plugins
 nettle
 Neevabot
+NewsCred
 newspaper
 Nuclei
 OnCrawl

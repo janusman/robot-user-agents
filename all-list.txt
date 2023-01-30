@@ -25,6 +25,7 @@ CCBot
 check_http
 CloudFlare-Prefetch
 cludo.com bot
+colly
 contentkingapp
 Cookiebot
 CopperEgg

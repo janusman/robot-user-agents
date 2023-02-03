@@ -78,6 +78,7 @@ LinkUpBot
 LinuxGetUrl
 LMY47V
 MacOutlook
+Magnet.me
 Magus Bot
 Mail.RU_Bot
 MauiBot

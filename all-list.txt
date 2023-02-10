@@ -133,6 +133,7 @@ serpstatbot
 SessionCam
 SeznamBot
 Site24x7
+SiteAuditBot
 siteimprove
 Siteimprove
 SiteSucker

@@ -42,6 +42,7 @@ DotBot
 DuckDuckBot
 facebookexternalhit
 Faraday
+FeedBurner
 FeedFetcher-Google
 feedonomics
 Fess

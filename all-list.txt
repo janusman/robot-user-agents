@@ -118,6 +118,7 @@ Re-re Studio
 Riddler
 rogerbot
 RustBot
+Safeassign
 Scrapy
 Screaming Frog
 SeobilityBot
@@ -140,6 +141,7 @@ Siteimprove
 SiteSucker
 SkypeRoom
 Slackbot
+Slurp
 Sogou web spider
 special_archiver
 SpiderLing

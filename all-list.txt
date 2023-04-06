@@ -56,6 +56,7 @@ gocolly
 Googlebot
 GoogleStackdriverMonitoring
 Go-http-client
+go-resty
 GuzzleHttp
 HeadlessChrome
 heritrix

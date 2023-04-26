@@ -40,6 +40,7 @@ Datadog Agent
 DataForSeoBot
 Detectify
 DotBot
+Dow Jones Searchbot
 DuckDuckBot
 facebookexternalhit
 Faraday

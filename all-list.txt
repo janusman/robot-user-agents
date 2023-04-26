@@ -148,6 +148,7 @@ Sogou web spider
 special_archiver
 SpiderLing
 StatusCake
+Swiftbot
 Synack
 Turnitin
 trendictionbot

@@ -3,6 +3,7 @@ AddThis.com
 AdsBot-Google
 Ahrefs
 alexa site audit
+AlipesNewsBot
 Amazonbot
 Amazon-Route53-Health-Check-Service
 ApacheBench

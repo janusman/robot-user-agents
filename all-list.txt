@@ -14,6 +14,7 @@ Archive-It
 AspiegelBot
 Assetnote
 axios
+azure-logic-apps
 Baiduspider
 Barkrowler
 bingbot

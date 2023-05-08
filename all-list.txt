@@ -120,6 +120,7 @@ python-requests
 Qwantify
 Re-re Studio
 Riddler
+RocketValidator
 rogerbot
 RustBot
 Safeassign
@@ -142,6 +143,7 @@ Site24x7
 SiteAuditBot
 siteimprove
 Siteimprove
+SiteLockSpider
 SiteSucker
 SkypeRoom
 Slackbot

@@ -108,6 +108,7 @@ Neevabot
 NewsCred
 newspaper
 Nuclei
+NukeScan
 OnCrawl
 Orbbot
 PageFreezer

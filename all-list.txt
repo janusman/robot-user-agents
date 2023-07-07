@@ -48,6 +48,7 @@ Faraday
 FeedBurner
 FeedFetcher-Google
 feedonomics
+feroxbuster
 Fess
 Funnelback
 Fuzz Faster U Fool

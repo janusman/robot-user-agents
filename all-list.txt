@@ -24,6 +24,7 @@ BLP_bbot
 BluechipBacklinks
 Buck
 Bytespider
+CatchBot
 CCBot
 check_http
 CloudFlare-Prefetch
@@ -109,6 +110,7 @@ nettle
 Neevabot
 NewsCred
 newspaper
+node-fetch
 Nuclei
 NukeScan
 OnCrawl
@@ -163,6 +165,7 @@ trendkite-akashic-crawler
 UCBrowser
 Uptime
 UptimeRobot
+usasearch
 UT-Dorkbot
 weborama-fetcher
 WhiteHat Security

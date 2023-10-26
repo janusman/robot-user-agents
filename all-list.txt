@@ -169,6 +169,7 @@ usasearch
 UT-Dorkbot
 weborama-fetcher
 WhiteHat Security
+WidenWebhookClient
 Wget
 WTWBot
 www.loc.gov

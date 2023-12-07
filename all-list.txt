@@ -182,6 +182,7 @@ Veracode Security Scan
 YandexBot
 YandexImages
 YisouSpider
+Y!J
 Zabbix
 ZoominfoBot
 ZoomSpider

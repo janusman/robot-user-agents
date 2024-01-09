@@ -114,6 +114,7 @@ newspaper
 node-fetch
 Nuclei
 NukeScan
+okhttp
 OnCrawl
 Orbbot
 PageFreezer

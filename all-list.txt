@@ -61,7 +61,10 @@ Grapeshot
 gobuster
 gocolly
 Googlebot
+GoogleOther
 GoogleStackdriverMonitoring
+Google-Extended
+Google-InspectionTool
 Go-http-client
 go-resty
 GuzzleHttp

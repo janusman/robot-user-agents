@@ -18,6 +18,7 @@ axios
 azure-logic-apps
 Baiduspider
 Barkrowler
+beanserver
 bingbot
 BLEXBot
 BLP_bbot

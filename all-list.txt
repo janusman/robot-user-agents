@@ -54,6 +54,7 @@ FeedFetcher-Google
 feedonomics
 feroxbuster
 Fess
+FriendlyCrawler
 Funnelback
 Fuzz Faster U Fool
 GAChecker

@@ -23,6 +23,7 @@ BLEXBot
 BLP_bbot
 BluechipBacklinks
 Buck
+Bytedance
 Bytespider
 CatchBot
 CCBot

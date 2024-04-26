@@ -29,6 +29,7 @@ Bytespider
 CatchBot
 CCBot
 check_http
+ClaudeBot
 CloudFlare-Prefetch
 cludo.com bot
 colly

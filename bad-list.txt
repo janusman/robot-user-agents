@@ -7,6 +7,7 @@ bingbot
 BLEXBot
 Bytespider
 CCBot
+ClaudeBot
 crawler4j
 Csnibot
 Curebot
